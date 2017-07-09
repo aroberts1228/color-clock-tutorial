@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aroberts1228/color-clock-tutorial/issues"
   },
-  "homepage": "https://github.com/aroberts1228/color-clock-tutorial#readme"
+  "homepage": "https://github.com/aroberts1228/color-clock-tutorial#readme",
+  "devDependencies": {
+    "gulp-serve": "^1.4.0"
+  }
 }
