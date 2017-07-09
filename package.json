@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/aroberts1228/color-clock-tutorial#readme",
   "devDependencies": {
+    "gulp-connect": "^5.0.0",
     "gulp-serve": "^1.4.0"
   }
 }
