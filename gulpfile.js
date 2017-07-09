@@ -6,3 +6,9 @@ gulp.task('webserver', function() {
 });
 
 gulp.task('default', ['webserver']);
+
+gulp.task('webserver', function() {
+  connect.server({
+    livereload: true
+  });
+});
