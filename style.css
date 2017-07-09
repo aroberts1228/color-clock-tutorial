@@ -1,1 +1,9 @@
-style
+body {
+  font-family: monospace;
+}
+
+.clock{
+  width:500px:
+  text-align: center;
+  
+}
